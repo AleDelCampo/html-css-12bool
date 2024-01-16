@@ -1,0 +1,43 @@
+.row {
+    text-align: center;
+}
+
+.padding {
+    padding: 6px;
+    border: 1px solid white;
+}
+
+.square {
+    background-color: purple;
+    width: 50%;
+    border-color: pink;
+}
+
+.square-2 {
+    background-color: purple;
+    width: 15%;
+}
+
+.lit-square {
+    background-color: purple;
+    width: 25%;
+    border-color: pink;
+}
+
+.colors {
+    background-color: pink;
+}
+
+.empty {
+    height: 30px;
+}
+
+.empty-2 {
+    height: 50px;
+}
+
+.height {
+    height: 50%;
+}
+
+
